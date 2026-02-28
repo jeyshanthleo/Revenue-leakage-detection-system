@@ -1,4 +1,4 @@
-# 🚀 Hidden Revenue Leakage Detection System
+# 🚀 Predictive Revenue Leakage Detection and Customer Churn Risk Analytics Using Machine Learning
 
 An end-to-end machine learning and analytics system designed to identify customers at risk of churn and estimate potential revenue leakage for subscription-based businesses.
 
